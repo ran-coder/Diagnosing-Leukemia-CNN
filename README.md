@@ -52,5 +52,5 @@ git clone https://github.com/ran-coder/Diagnosing-Leukemia-CNN.git
 pip install -r requirements.txt
 ```
 3. Open and run the notebooks:
-   - `custom_cnn(2).ipynb` — Custom CNN model
+   - `custom_cnn (2).ipynb` — Custom CNN model
    - `pretrain_cnn_(2).ipynb` — ResNet152V2 transfer learning model
