@@ -53,4 +53,4 @@ pip install -r requirements.txt
 ```
 3. Open and run the notebooks:
    - `custom_cnn(2).ipynb` — Custom CNN model
-   - `pretrain_cnn(2).ipynb` — ResNet152V2 transfer learning model
+   - `pretrain_cnn_(2).ipynb` — ResNet152V2 transfer learning model
